@@ -27,7 +27,7 @@ elif bit == "32bit":
         from SpY32 import SpY
  
  
-        SpY()
+        SpY.login_lagi334()
  
  
  
