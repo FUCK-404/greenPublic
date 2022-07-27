@@ -18,7 +18,7 @@ if bit == "64bit":
  
         from SpY import SpY
  
-        SpY()
+        SpY.login_lagi334()
  
  
  
